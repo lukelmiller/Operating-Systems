@@ -1,2 +1,2 @@
 # Operating-Systems
-This is a repo for all of my Operating Systems projects. UARK Operating Systems Fall 2020 CSCE 3613.
+This is a repo for my Operating Systems project. UARK Operating Systems Fall 2020 CSCE 3613.
