@@ -1,0 +1,208 @@
+lukemiller@Lukes-MacBook-Pro src % javac ProducerConsumer.java
+lukemiller@Lukes-MacBook-Pro src % java ProducerConsumer 20 10 5
+Using arguments from the command line
+Sleep time = 20
+Producer threads = 10
+Consumer threads = 5
+
+Producers produced: 43512
+Producers produced: 14844
+Producers produced: 8321
+Producers produced: 85050
+Producers produced: 29456
+	Consumer consumed: 43512
+	Consumer consumed: 14844
+	Consumer consumed: 8321
+	Consumer consumed: 85050
+	Consumer consumed: 29456
+Producers produced: 22035
+Producers produced: 2564
+Producers produced: 52078
+Producers produced: 43619
+Producers produced: 31138
+	Consumer consumed: 22035
+Producers produced: 23193
+	Consumer consumed: 2564
+Producers produced: 73061
+	Consumer consumed: 52078
+Producers produced: 11467
+	Consumer consumed: 43619
+Producers produced: 48204
+	Consumer consumed: 31138
+Producers produced: 26359
+	Consumer consumed: 23193
+Producers produced: 34395
+	Consumer consumed: 73061
+Producers produced: 88282
+	Consumer consumed: 11467
+Producers produced: 33886
+	Consumer consumed: 48204
+Producers produced: 17827
+	Consumer consumed: 26359
+Producers produced: 2831
+	Consumer consumed: 34395
+Producers produced: 31315
+	Consumer consumed: 88282
+Producers produced: 50674
+	Consumer consumed: 33886
+Producers produced: 46927
+	Consumer consumed: 17827
+Producers produced: 79381
+	Consumer consumed: 2831
+Producers produced: 93525
+	Consumer consumed: 31315
+Producers produced: 5780
+	Consumer consumed: 50674
+Producers produced: 80808
+	Consumer consumed: 46927
+Producers produced: 60532
+	Consumer consumed: 79381
+Producers produced: 5951
+	Consumer consumed: 93525
+Producers produced: 45826
+	Consumer consumed: 5780
+Producers produced: 7719
+	Consumer consumed: 80808
+Producers produced: 57251
+	Consumer consumed: 60532
+Producers produced: 22644
+	Consumer consumed: 5951
+Producers produced: 64750
+	Consumer consumed: 45826
+Producers produced: 84763
+	Consumer consumed: 7719
+Producers produced: 90942
+	Consumer consumed: 57251
+Producers produced: 174
+	Consumer consumed: 22644
+Producers produced: 90895
+	Consumer consumed: 64750
+Producers produced: 86640
+	Consumer consumed: 84763
+Producers produced: 87801
+	Consumer consumed: 90942
+Producers produced: 42006
+	Consumer consumed: 174
+Producers produced: 42146
+	Consumer consumed: 90895
+	Consumer consumed: 86640
+Producers produced: 19501
+Producers produced: 48085
+	Consumer consumed: 87801
+	Consumer consumed: 42006
+Producers produced: 22403
+Producers produced: 1570
+	Consumer consumed: 42146
+Producers produced: 46877
+	Consumer consumed: 19501
+Producers produced: 59905
+	Consumer consumed: 48085
+Producers produced: 64646
+	Consumer consumed: 22403
+	Consumer consumed: 1570
+Producers produced: 6955
+Producers produced: 68867
+	Consumer consumed: 46877
+Producers produced: 599
+	Consumer consumed: 59905
+Producers produced: 47390
+	Consumer consumed: 64646
+Producers produced: 13308
+	Consumer consumed: 6955
+Producers produced: 78805
+	Consumer consumed: 68867
+Producers produced: 75272
+	Consumer consumed: 599
+Producers produced: 4884
+	Consumer consumed: 47390
+Producers produced: 84190
+	Consumer consumed: 13308
+Producers produced: 78834
+	Consumer consumed: 78805
+Producers produced: 70246
+	Consumer consumed: 75272
+Producers produced: 22114
+	Consumer consumed: 4884
+Producers produced: 93523
+	Consumer consumed: 84190
+Producers produced: 60109
+	Consumer consumed: 78834
+Producers produced: 41121
+	Consumer consumed: 70246
+Producers produced: 73839
+	Consumer consumed: 22114
+Producers produced: 41773
+	Consumer consumed: 93523
+Producers produced: 62442
+	Consumer consumed: 60109
+Producers produced: 14656
+	Consumer consumed: 41121
+Producers produced: 66677
+	Consumer consumed: 73839
+Producers produced: 3383
+	Consumer consumed: 41773
+Producers produced: 42879
+	Consumer consumed: 62442
+	Consumer consumed: 14656
+Producers produced: 7081
+Producers produced: 55173
+	Consumer consumed: 66677
+Producers produced: 47971
+	Consumer consumed: 3383
+	Consumer consumed: 42879
+Producers produced: 11324
+Producers produced: 75565
+	Consumer consumed: 7081
+Producers produced: 39614
+	Consumer consumed: 55173
+Producers produced: 98585
+	Consumer consumed: 47971
+Producers produced: 6200
+	Consumer consumed: 11324
+Producers produced: 44638
+	Consumer consumed: 75565
+Producers produced: 21583
+	Consumer consumed: 39614
+Producers produced: 14167
+	Consumer consumed: 98585
+Producers produced: 86192
+	Consumer consumed: 6200
+Producers produced: 43439
+	Consumer consumed: 44638
+Producers produced: 40900
+	Consumer consumed: 21583
+Producers produced: 85784
+	Consumer consumed: 14167
+	Consumer consumed: 86192
+Producers produced: 99215
+Producers produced: 63510
+	Consumer consumed: 43439
+Producers produced: 6383
+	Consumer consumed: 40900
+Producers produced: 74021
+	Consumer consumed: 85784
+Producers produced: 29603
+	Consumer consumed: 99215
+Producers produced: 81224
+	Consumer consumed: 63510
+Producers produced: 95406
+	Consumer consumed: 6383
+Producers produced: 83020
+	Consumer consumed: 74021
+Producers produced: 48003
+	Consumer consumed: 29603
+Producers produced: 79493
+	Consumer consumed: 81224
+Producers produced: 80441
+	Consumer consumed: 95406
+Producers produced: 22365
+	Consumer consumed: 83020
+Producers produced: 42172
+	Consumer consumed: 48003
+Producers produced: 28164
+	Consumer consumed: 79493
+	Consumer consumed: 80441
+	Consumer consumed: 22365
+	Consumer consumed: 42172
+	Consumer consumed: 28164
+lukemiller@Lukes-MacBook-Pro src % 
